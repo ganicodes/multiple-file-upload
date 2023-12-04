@@ -1,4 +1,4 @@
-# Project Name
+# Multiple File Upload
 
 A simple React project using Vite, react-dropzone, and react-toastify for uploading multiple files.
 
